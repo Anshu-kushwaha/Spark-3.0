@@ -4,7 +4,7 @@ class Spark{
         System.out.println("Bro !!");
     }
 
-    public void m1(){
+    public void Payment(){
         System.out.println("m1");
     }
 } 
